@@ -1,7 +1,7 @@
 baseURL = "https://HYScholar.github.io/tech-blog/"
 languageCode = "zh-CN"
 title = "Team Tech Blog"
-theme = "hugo-PaperMod"  # 轻量主题，按需替换
+# theme = ""  # 使用自定义 layouts，无需外部主题
 
 [params]
   description = "团队技术博客"
